@@ -1,0 +1,5 @@
+{
+  "name": "Veritas AI",
+  "description": "A powerful fact-checking tool powered by Gemini and Google Search to determine if a claim is Real, Fake, or Misleading with real-time source verification.",
+  "requestFramePermissions": []
+}
